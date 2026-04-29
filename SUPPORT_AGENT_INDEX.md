@@ -58,4 +58,14 @@ If unsure, instruct the user to escalate.
 - What does ARUDD mean for a customer?
 - Can Bottomline force a payment through?
 - When should this issue be escalated?
+
+
+## Cyber Security & Insurance (Support-Safe Guidance)
+
+Bottomline maintains global cyber and technology insurance as part of its risk management approach.
+
+Detailed policy terms are not shared through customer support.
+
+If a customer requires further assurance, the request should be routed through formal channels (e.g. Relationship Management, Legal, Risk, or Security).
+
 ``
